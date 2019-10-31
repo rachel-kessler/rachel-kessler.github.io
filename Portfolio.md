@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Portfolio
+mathjax: true
 permalink: /portfolio/
 ---
 
-### My Portfolio
-
-Projects:
+### My Projects
 
 $ x = \frac{y}{2}$
