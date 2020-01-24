@@ -8,7 +8,11 @@ Hi, I'm Rachel!
 
 ### More Information
 
-I am a Data Scientist.
+Passionate about deriving insights from data.
+
+Proven experience in business analysis, process improvement, and Lean thinking.
+
+Skilled in programming, data visualization, and machine learning. 
 
 ### Contact me
 
