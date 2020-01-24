@@ -9,4 +9,4 @@ permalink: /portfolio/
 
 ### My Projects
 
-$ x = \frac{y}{2}$
+Portfolio website coming soon! Until then, view my projects on my Github.
