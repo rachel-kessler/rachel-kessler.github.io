@@ -9,4 +9,6 @@ permalink: /portfolio/
 
 ### My Projects
 
-Portfolio website coming soon! Until then, view my projects on my Github.
+Portfolio website coming soon! Until then, view my projects on my Github. 
+
+<a href="https://github.com/rachel-kessler/Portfolio">Visit my Github</a>
