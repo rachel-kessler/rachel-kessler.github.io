@@ -3,19 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<html>
-  <head>
-    <title>Test Resume</title>
-  </head>
-  <body>
-    <h1>Test</h1>
-    <iframe src="/images/Rachel Kessler Resume.pdf#toolbar=0" width="100%" height="500px">
+### My Resume
+    <iframe src="/images/Rachel Kessler Resume.pdf#toolbar=0" width="100%" height="1000px">
     </iframe>
-  </body>
-</html>
-
-### More Information
 
 Passionate about deriving insights from data.
 
